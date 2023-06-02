@@ -9,3 +9,6 @@ ng generate component Home --standalone --inline-template --skip-tests
 
 # Create a new service for your app
 ng generate service housing --skip-tests
+
+# Create default page component standalone
+ng generate component details --standalone --inline-template --skip-tests
